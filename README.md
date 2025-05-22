@@ -1,5 +1,4 @@
 # navie_bayes
-# navie_bayes
 
 # Spam Detection Project
 
