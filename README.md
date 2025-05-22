@@ -91,18 +91,3 @@ Each program is designed for simple classification tasks using different types o
 * Accuracy and prediction interpretation
 
 * How to build and train a model
-
-
-
-
-   
-
-
-
-
-
-
- 
-
-=======
->>>>>>> 606433d219c728a8128504e21ca964675702f878
