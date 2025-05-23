@@ -1,4 +1,4 @@
-# Navie Bayes
+# Naive Bayes
 
 ## Spam Detection Project
 This project shows how to use the Naive Bayes algorithm to detect spam messages.
